@@ -8,8 +8,8 @@ begin
     gem.summary = %Q{the tiniest blog-engine in Oz}
     gem.description = %Q{the tiniest blog-engine in Oz.}
     gem.email = "self@cloudhead.net"
-    gem.homepage = "http://github.com/cloudhead/toto"
-    gem.authors = ["cloudhead"]
+    gem.homepage = "http://github.com/jdl/toto"
+    gem.authors = ["cloudhead", "jdl"]
     gem.add_development_dependency "riot"
     gem.add_dependency "builder"
     gem.add_dependency "rack"
